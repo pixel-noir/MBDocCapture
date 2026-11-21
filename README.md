@@ -4,6 +4,7 @@
 [![Platform](https://img.shields.io/badge/iOS-15%2B-blue.svg)](https://developer.apple.com/ios/)
 [![SwiftPM](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+[![Buy me a coffee](https://img.shields.io/badge/buy_me_a_coffee-PayPal-00457C.svg?logo=paypal&logoColor=white)](https://paypal.me/BEMahdi)
 
 **MBDocCapture** adds a polished document scanner to your iOS app: live edge detection, auto capture, corner adjustment with a magnifier, perspective correction and a black & white "enhanced" filter. It ships with a **Liquid Glass** interface on iOS 26+, falls back gracefully to material blur on older systems, and almost every detail can be customized.
 
@@ -330,12 +331,10 @@ The project is generated with [Tuist](https://tuist.io) from `Example/Project.sw
 
 The full API reference and guides are a DocC catalog: in Xcode, **Product ▸ Build Documentation**.
 
+## Support
+
+If this project helped you, [buy me a coffee ☕️](https://paypal.me/BEMahdi).
+
 ## License
 
 MBDocCapture is available under the MIT license. See [LICENSE](LICENSE).
-
-## Support
-
-If this project helped you, buy me a coffee ☕️
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/BEMahdi)
